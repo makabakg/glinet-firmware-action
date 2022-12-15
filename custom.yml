@@ -7,16 +7,6 @@ feeds:
 packages:
   - luci-app-mwan3
   - luci-app-adguardhome
-  - luci-app-ssr-plus
-  - luci-app-netspeedtest
-  - luci-app-v2ray-server
-  - luci-app-docker
-  - luci-app-dockerman
-  - luci-app-filetransfer
-  - luci-app-diskman
-  - luci-app-openclash
-
-
 
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
