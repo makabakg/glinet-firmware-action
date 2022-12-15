@@ -6,7 +6,13 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-
+  - luci-app-diskman
+  - luci-app-filetransfer
+  - luci-app-vssr
+  - luci-app-v2ray-server
+  - luci-app-ssr-plus
+  - luci-app-adguardhome
+  - luci-app-ttyd
 
 
 diffconfig: |
